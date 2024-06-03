@@ -22,3 +22,7 @@ This project is a simple web application that displays information about a footb
 - HTML
 - CSS
 - JavaScript
+
+## Credits
+
+This project was created as part of the FreeCodeCamp curriculum.
